@@ -1,3 +1,2 @@
-{
-font-size: 14px;
-}
+--font: Book Antiqua, Georgia, serif;
+--text: #333333;
