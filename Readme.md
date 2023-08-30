@@ -1,2 +1,2 @@
-Auther Gabriela Benavides
-Purpose personal Portfolio
+Auther: Gabriela Benavides
+Purpose: Personal Portfolio
